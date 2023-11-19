@@ -1,0 +1,19 @@
+anchor: Lavadero y Autolavado de Perros y Mascotas en Murcia
+more:
+  padding_top: 3
+  padding_bottom: 2
+rows:
+- type: columns
+  items:
+  - image: logo.svg
+  - description: |
+      El autolavado para tu mascota
+      {.h2 .underline}
+
+      En nuestro centro podrás lavar a tu perro / mascota de manera cómoda, fácil y económica;
+      sin cita previa y con productos de primera calidad
+      (champú con tratamiento antiparásitos y agua ozonizada)
+
+      [btn icon-plus Más](#principal)
+    more:
+      align_xl: left

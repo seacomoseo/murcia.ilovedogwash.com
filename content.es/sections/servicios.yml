@@ -1,0 +1,39 @@
+title: Servicios
+subtitle: Lo mejor para tu mascota
+rows:
+- type: columns
+  design:
+    num: 3
+    uppercase: false
+    underline: true
+    color: white
+    link: '#contacto'
+    label: Contactar
+    licon: none
+    ratio: 16x9
+    inset: true
+  items:
+  - title: Autolavado de <br> Mascotas
+    image: autolavado-mascotas.jpg
+    description: |
+      ¡Sáltate el estrés del baño en casa! Ven y dale a tu pequeño/gran peludo un baño refrescante sin ensuciarte. ¡Pelitos limpios y muchas risas aseguradas!
+  - title: Zona de Secado <br> y Cepillado
+    image: zona-de-secado-y-cepillado.jpg
+    description: |
+      Dale a tu mascota el amor que se merece. En nuestra zona de secado y cepillado, le daremos un pelaje de estrella de cine. ¡Brillo y suavidad garantizados!
+  - title: Zona de <br> Cardado
+    image: zona-de-cardado.jpg
+    description: |
+      ¿Enredos? ¡Adiós y buen viaje! En nuestra zona de cardado, desenredamos a tus peludos revoltosos y los dejamos irresistiblemente suaves. ¡Ciao al estilo salvaje!
+  - title: Acompañamiento Lavado <br> Perros Difíciles
+    image: acompanamiento-lavado-perros-dificiles.jpg
+    description: |
+      ¿Tu perro es rebelde, nervioso, sensible o desconfiado? Nuestro equipo experto te acompaña en el baño de tu mascota si se te hace difícil. ¡Sin estrés ni preocupaciones! 
+  - title: Peluquería <br> Canina
+    image: peluqueria-canina.jpg
+    description: |
+      ¡No solo los humanos merecen un cambio de look! Nuestro equipo de estilistas caninos hará que tu mascota luzca como una verdadera estrella de pasarela.
+  - title: Paseo de <br> Perros
+    image: paseo-de-perros.jpg
+    description: |
+      No dejes que tu perro se muera de aburrimiento en casa. Nuestros paseadores lo sacarán a dar vueltas, olisquear y hacer nuevos amigos. ¡Patas felices en acción!

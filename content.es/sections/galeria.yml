@@ -1,0 +1,28 @@
+title: Galería
+subtitle: ¡Así somos!
+more:
+  padding_hide: true
+rows:
+- type: gallery
+  design:
+    max: 99
+    num: 3
+    alt: true
+    wrap: true
+    gap: true
+    cover: true
+    grayscale: false
+    link: https://ilovedogwash.com/galeria/
+    ofuscate: true
+  images:
+  - autolavado-mascotas-01.jpg
+  - autolavado-mascotas-02.jpg
+  - autolavado-mascotas-03.jpg
+  - autolavado-mascotas-04.jpg
+  - autolavado-mascotas-05.jpg
+  - autolavado-mascotas-06.jpg
+  - autolavado-mascotas-07.jpg
+  - autolavado-mascotas-08.jpg
+  - autolavado-mascotas-09.jpg
+  - autolavado-mascotas-10.jpg
+  - autolavado-mascotas-11.jpg

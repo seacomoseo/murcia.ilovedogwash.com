@@ -1,0 +1,29 @@
+title: Proceso
+subtitle: Cómo dejar a tu mascota Espectacular
+rows:
+- type: steps
+  design:
+    border: invert
+    uppercase: false
+    underline: true
+  items:
+  - title: Cardado y Cepillado
+    icon: 1
+    description: |
+      Al cardar y cepillar el pelo conseguimos quitar pieles muertas y el máximo de nudos del pelo de tu mascota para prepararlo para el baño
+  - title: Sube a tu Mascota
+    icon: 2
+    description: |
+      Sube a tu mascota al interior del autolavado y asegúralo si va a ser más cómodo para ti
+  - title: Lavado
+    icon: 3
+    description: |
+      Selecciona las diferentes opciones que tienes de lavar a tu perra: champu, antiparasitario o aclarado (esta opción te permite utilizar tu propio champú)
+  - title: Secado
+    icon: 4
+    description: |
+      Seca a tu mascota si puede ser con una toalla antes de utilizar el secador de la máquina
+  - title: A disfrutar
+    icon: 5
+    description: |
+      Para terminar, puedes ir a la zona chiqui guau para que tu mascota pase un rato agradable contigo

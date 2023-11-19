@@ -1,0 +1,32 @@
+baseURL: https://murcia.ilovedogwash.com
+Paginate: 24
+buildFuture: false
+theme: [sansoul]
+params:
+  git_url: https://gitlab.com/ilovedogwash/murcia.ilovedogwash.com
+  netlify_name: ilovedogwash
+  netlify_id: 5fbfe6d1-11da-432f-ad63-91b486a720c8
+  drive_link: https://drive.google.com/file/d/1-4UsL-rg3bbaAB9cNc9OJFJatknhT_Kw
+  drive_mails: jballesteros76@gmail.com
+defaultContentLanguage: es
+disableLanguages: [en]
+languages:
+  es:
+    paginatePath: pagina
+    permalinks:
+      page:
+        pages: :slug
+        blog: :slug
+        events: evento/:year/:month/:day/:slug
+        products: producto/:slug
+        categories: categoria/:slug
+        tags: etiqueta/:slug
+        authors: autor/:slug
+      section:
+        pages: paginas
+        blog: blog
+        events: eventos
+        products: productos
+        categories: categorias
+        tags: etiquetas
+        authors: autores

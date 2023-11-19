@@ -1,0 +1,16 @@
+// Header
+
+#body-inicio #header {
+  @mixin show-up($delay) {
+    animation: show-up .5s (.5 + .25s * $delay) both;
+  }
+  .image {                @include show-up(0); }
+  .h2 {                   @include show-up(1); }
+  .description p {        @include show-up(2); }
+  .description .buttons { @include show-up(3); }
+}
+#galeria {
+  .bg-color {
+    background-color: $white;
+  }
+}

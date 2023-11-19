@@ -1,0 +1,103 @@
+id: resenas
+title: Reseñas
+subtitle: ¿Qué dicen de nosotros?
+rows:
+- type: reviews
+  design:
+    num: 3
+    color: white
+    opacity: 100
+    slider: true
+  items:
+  - title: SidiTrainer
+    description: |
+      El servicio es muy completo, desde cepillo hasta toallas a tu disposición.
+
+      La bañera es cómoda y el tiempo del que se dispone da de sobra.
+
+      El sitio siempre está bien limpio y Julio (el dueño) es súper atento.
+  - title: Anónimo
+    description: |
+      Nos ha encantado!
+
+      El tiempo es más que suficiente para el lavado y antes de empezar te dan 30 segundos para mojar al peludo y prepararlo para el baño.
+
+      Disponen de toallas, secador, delantal para no mojarte, peine con secador, dispensador de chuches (le compramos a Balto una cajita para felicitarlo por lo bien que se ha portado).
+
+      Todo muy limpio y cómodo.
+  - title: Fran N.
+    description: |
+      Servicio muy completo, cómodo y limpio.  Totalmente recomendable, el dueño muy atento y servicial.
+
+      Teníamos duda si utilizar el cepillo por el tamaño mini de nuestros perritos, y amablemente nos ofreció de forma gratuita probar.
+
+      Toallas de cortesía incluidas en el servicio, y el agua perfecta de temperatura.
+
+      Sin duda volveremos a repetir.
+
+      Enhorabuena y muchas gracias.
+  - title: María T.
+    description: |
+      Muy cómodo y muy limpio!
+
+      Mi perro ha salido super blanco, además había toallas, agua calentita, delantal para que no te mojes...etc.
+
+      Repetiré sin duda, yo he hecho los tres pasos cardado, baño y secado y ha quedado genial.
+  - title: Raquel E.
+    description: |
+      Sitio perfecto.
+
+      Bañera de lavado intuitiva y cómoda.
+
+      El agua no sale fría, importante para el confort de los perritos, y ozonizada.
+
+      El local dispone de toallas para el secado, además de cepillos-secadores muy útiles.
+
+      El dueño muy amable.
+
+      Sin duda volveremos.
+  - title: Esther S.
+    description: |
+      Un sitio maravilloso para lavar a tu mascota.
+
+      Precio inmejorable, limpieza, Julio (el dueño) súper atento y simpático.
+
+      Las instalaciones disponen te todo lo necesario para poder lavar, secar y peinar.
+
+      Disponen de servio de peluquería canina con cita previa.
+
+      Repetiremos tantas veces como Mushu lo necesite :)
+  - title: Maribel L.
+    description: |
+      Servicio más que completo, el lugar está muy limpio y tiene todo lo necesario para dejar a tu perro reluciente por un módico precio.
+
+      Destacar también que el dueño ha sido muy amable y atento.
+
+      Repetiré seguro!!
+  - title: Sergio M.
+    description: |
+      Muy contentos con el servicio que ofrece y la atención.
+
+      Lugar muy cómodo para la higiene de nuestras mascotas.
+
+      El dueño súper atento y cordial.
+
+      Volveremos sin ninguna duda.
+
+      Muy recomendable.
+  - title: Hellin P.
+    description: |
+      Gran lugar para lavar nuestros propios perros.
+
+      Bañera y secador a nuestro nivel, la persona que gestiona es muy agradable y explica bien el funcionamiento.
+
+      Funciona con tarjeta de crédito o moneda para la bañera y moneda para la secadora.
+
+      Champú y toallas proporcionados.
+- type: columns
+  items:
+  - description: |
+      Puedes ver más reseñas y añadir la tuya aquí:
+      {.subtitle}
+
+      [btn icon-star Google](https://g.page/r/CetZfTTYbWchEB0/review "noindex")

@@ -1,0 +1,24 @@
+title: Ventajas
+subtitle: Así nos las gastamos
+rows:
+- type: columns
+  design:
+    num: 4
+    num_xs: true
+  items:
+  - title: Autoservicio
+    icon: paw
+  - title: Fácil de Usar
+    icon: thumbs-up
+  - title: Sin Cita Previa
+    icon: calendar-xmark
+  - title: Económico
+    icon: piggy-bank
+  - title: Rápido
+    icon: rabbit-running
+  - title: Divertido
+    icon: face-laugh-beam
+  - title: Cómodo
+    icon: couch
+  - title: Ecológico
+    icon: leaf-heart

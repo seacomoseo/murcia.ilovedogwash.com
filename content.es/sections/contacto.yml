@@ -1,0 +1,47 @@
+title: Contacto
+subtitle: ¿En qué podemos ayudarte?
+button: link
+size: sm
+more:
+  container: white
+rows:
+- type: contact
+  data:
+  - type: schedule
+    days: Lunes a Domingo
+    hours: 9:30 - 21:30
+  - type: br
+  - type: phone
+    label: 618 64 80 14
+  - type: whatsapp
+    button: link
+    label: 618 64 80 14
+  - type: address
+    active: true
+    name: I Love Dog Wash | Murcia
+    streetAddress: C. Intendente Patiño, 5
+    postalCode: 30007
+    addressLocality: Murcia
+    addressRegion: Murcia
+    addressCountry: España
+    coordinates: '{"type":"Point","coordinates":[-1.1210106,37.9937793]}'
+  form:
+    fill_inputs: true
+    items:
+    - type: text
+      name: Nombre
+      required: true
+    - type: email
+      name: Email
+      required: true
+    - type: tel
+      name: Teléfono
+    - type: textarea
+      name: Mensaje
+      required: true
+  map:
+    active: true
+    link: https://g.page/r/CetZfTTYbWchEB0
+    iframe: ''
+    flip_x: true
+    divider: ''

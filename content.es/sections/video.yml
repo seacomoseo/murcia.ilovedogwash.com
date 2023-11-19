@@ -1,0 +1,6 @@
+id: video
+anchor: Vídeo
+image: https://youtu.be/iNv1sn9E6ug?poster=fondo.jpg
+more:
+  padding_hide: true
+  ratio: 16x9
