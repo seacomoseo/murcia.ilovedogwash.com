@@ -10,7 +10,11 @@
   .description .buttons { @include show-up(3); }
 }
 #galeria {
+  padding-top: calc(var(--pt, 0px) + var(--pt-divider, 0px));
   .bg-color {
     background-color: $white;
+  }
+  + .section {
+    margin-top: 0;
   }
 }
